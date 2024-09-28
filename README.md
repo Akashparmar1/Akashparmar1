@@ -154,3 +154,9 @@ Python   3 hrs 58 mins    ██████████████████
 
 <!--END_SECTION:waka-->
 ![views since 2023/06/14](https://visitor-badge-deno.deno.dev/Akashparmar1.Akashparmar1.svg)
+
+<h1> Contact me </h1>
+    <a href="https://akash-parmar.vercel.app/" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=J3nZHWgT1e7m&format=png&color=000000" title = "Portfolio" alt="" height="30" /></a>
+    <a href="https://www.linkedin.com/in/akash-parmar-910603225" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/socials/transparent-Linkedin-logo-icon.png" alt="" height="30" /></a>
+<!--     <a href="https://instagram.com" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/socials/instagram.png" alt="" height="30" /></a> -->
+    <a href="mailto:akash24parmar@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=P7UIlhbpWzZm&format=png&color=000000" alt="" height="30" /></a>
