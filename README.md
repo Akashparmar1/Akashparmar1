@@ -3,6 +3,10 @@
 <!--
 **Akashparmar1/Akashparmar1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+
+Microsoft+Student+Ambassador;Open-Source+Enthusiast..;Learning+In+Public..;Empowering+Others;
+
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -17,7 +21,7 @@ Here are some ideas to get you started:
 
 <p align="center">
 <!--   <a href="https://github.com/DenverCoder1/readme-typing-svg"> -->
-    <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=28&lines=Hi👋+I'm+Akash+Parmar..;Microsoft+Student+Ambassador;Open-Source+Enthusiast..;Learning+In+Public..;Empowering+Others;Nice+To+Meet+You+....&center=true"></a></p>
+    <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=28&lines=Hi👋+I'm+Akash+Parmar..;Nice+To+Meet+You+....&center=true"></a></p>
     
 
     
