@@ -153,11 +153,20 @@ Here are some ideas to get you started:
 ![](https://github-profile-trophy.vercel.app/?username=Akashparmar1&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 <!--START_SECTION:waka-->
 
+
 text
 Python   3 hrs 58 mins    █████████████████████████   100.00 %
 
 <!--END_SECTION:waka-->
 ![views since 2023/06/14](https://visitor-badge-deno.deno.dev/Akashparmar1.Akashparmar1.svg)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Akashparmar1&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+### ✍ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+
 
 <h1> 📞Contact me </h1>
     <a href="https://akash-parmar.vercel.app/" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=J3nZHWgT1e7m&format=png&color=000000" title = "Portfolio" alt="" height="30" /></a>
